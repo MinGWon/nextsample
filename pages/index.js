@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Hello</code>
+          <code>Hello</code>
         </p>
       </main>
 
